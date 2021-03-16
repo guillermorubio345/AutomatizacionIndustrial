@@ -876,7 +876,7 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>84.563333333333333</Width>
+        <Width>82.563333333333333</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -1151,7 +1151,7 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -1368,7 +1368,7 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>143.93333333333334</Width>
+        <Width>141.93333333333334</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -2354,7 +2354,7 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>84.563333333333333</Width>
+        <Width>82.563333333333333</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -2805,7 +2805,7 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>143.93333333333334</Width>
+        <Width>141.93333333333334</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -3012,7 +3012,7 @@ transporte de la siguiente caja?</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>97.756666666666661</Width>
+        <Width>95.756666666666661</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -3740,7 +3740,7 @@ transporte de la siguiente caja?</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -3863,7 +3863,7 @@ transporte de la siguiente caja?</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -3904,7 +3904,7 @@ transporte de la siguiente caja?</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -4121,7 +4121,7 @@ transporte de la siguiente caja?</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>84.563333333333333</Width>
+        <Width>82.563333333333333</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -4531,7 +4531,7 @@ transporte de la siguiente caja?</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>143.93333333333334</Width>
+        <Width>141.93333333333334</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -4695,7 +4695,7 @@ transporte de la siguiente caja?</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>97.756666666666661</Width>
+        <Width>95.756666666666661</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -5216,7 +5216,7 @@ transporte de la siguiente caja?</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -5710,7 +5710,7 @@ transporte de la siguiente caja?</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -5874,14 +5874,14 @@ transporte de la siguiente caja?</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
           <Left>240</Left>
-          <Top>271.99999999999989</Top>
+          <Top>272</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -6173,7 +6173,7 @@ transporte de la siguiente caja?</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>84.563333333333333</Width>
+        <Width>82.563333333333333</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -6284,14 +6284,14 @@ transporte de la siguiente caja?</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
           <Left>240</Left>
-          <Top>463.99999999999989</Top>
+          <Top>464</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -6448,7 +6448,7 @@ transporte de la siguiente caja?</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -6624,7 +6624,7 @@ transporte de la siguiente caja?</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>143.93333333333334</Width>
+        <Width>141.93333333333334</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -6788,7 +6788,7 @@ transporte de la siguiente caja?</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>97.756666666666661</Width>
+        <Width>95.756666666666661</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -7034,7 +7034,7 @@ transporte de la siguiente caja?</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>149.93333333333334</Width>
+        <Width>147.93333333333334</Width>
         <TypeEnum>ActionConditional</TypeEnum>
         <ConditionStr>!DP * [Contador &lt; 3]</ConditionStr>
         <TransitionStr />
@@ -7547,30 +7547,6 @@ transporte de la siguiente caja?</Caption>
     <TotalLenght>307</TotalLenght>
   </SimulatorIoSettings>
   <Settings>
-    <PrintSettings>
-      <PrintFooter>true</PrintFooter>
-      <PrintHeader>true</PrintHeader>
-      <PrintMargins>
-        <Top>10</Top>
-        <Bottom>10</Bottom>
-        <Left>20</Left>
-        <Right>10</Right>
-      </PrintMargins>
-      <FooterLeft>Printed with Grafcet-Studio</FooterLeft>
-      <FooterMiddle />
-      <FooterRight>{PageNr}</FooterRight>
-      <HeaderLeft>{ProjectName}</HeaderLeft>
-      <HeaderMiddle>{PageName}</HeaderMiddle>
-      <HeaderRight>{DateAndTime}</HeaderRight>
-      <PrintLogoHightInMmArray>
-        <int>10</int>
-        <int>10</int>
-        <int>10</int>
-        <int>10</int>
-      </PrintLogoHightInMmArray>
-      <GrafcetScaleFactor>40</GrafcetScaleFactor>
-      <SymbolTableScaleFactor>100</SymbolTableScaleFactor>
-    </PrintSettings>
     <StepSituationSettings>
       <IsCurrentSituationModified>false</IsCurrentSituationModified>
       <StepsTextboxEnabled>false</StepsTextboxEnabled>
@@ -8450,7 +8426,7 @@ transporte de la siguiente caja?</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>84.563333333333333</Width>
+            <Width>82.563333333333333</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -8725,7 +8701,7 @@ transporte de la siguiente caja?</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -8942,7 +8918,7 @@ transporte de la siguiente caja?</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>143.93333333333334</Width>
+            <Width>141.93333333333334</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -9928,7 +9904,7 @@ transporte de la siguiente caja?</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>84.563333333333333</Width>
+            <Width>82.563333333333333</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -10379,7 +10355,7 @@ transporte de la siguiente caja?</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>143.93333333333334</Width>
+            <Width>141.93333333333334</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -10586,7 +10562,7 @@ transporte de la siguiente caja?</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>97.756666666666661</Width>
+            <Width>95.756666666666661</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -11314,7 +11290,7 @@ transporte de la siguiente caja?</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -11437,7 +11413,7 @@ transporte de la siguiente caja?</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -11478,7 +11454,7 @@ transporte de la siguiente caja?</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -11695,7 +11671,7 @@ transporte de la siguiente caja?</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>84.563333333333333</Width>
+            <Width>82.563333333333333</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -12105,7 +12081,7 @@ transporte de la siguiente caja?</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>143.93333333333334</Width>
+            <Width>141.93333333333334</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -12269,7 +12245,7 @@ transporte de la siguiente caja?</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>97.756666666666661</Width>
+            <Width>95.756666666666661</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -12790,7 +12766,7 @@ transporte de la siguiente caja?</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -13284,7 +13260,7 @@ transporte de la siguiente caja?</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -13448,14 +13424,14 @@ transporte de la siguiente caja?</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
             <IsStartStep>false</IsStartStep>
             <Margin>
               <Left>240</Left>
-              <Top>271.99999999999989</Top>
+              <Top>272</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
@@ -13747,7 +13723,7 @@ transporte de la siguiente caja?</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>84.563333333333333</Width>
+            <Width>82.563333333333333</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -13858,14 +13834,14 @@ transporte de la siguiente caja?</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
             <IsStartStep>false</IsStartStep>
             <Margin>
               <Left>240</Left>
-              <Top>463.99999999999989</Top>
+              <Top>464</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
@@ -14022,7 +13998,7 @@ transporte de la siguiente caja?</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -14198,7 +14174,7 @@ transporte de la siguiente caja?</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>143.93333333333334</Width>
+            <Width>141.93333333333334</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -14362,7 +14338,7 @@ transporte de la siguiente caja?</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>97.756666666666661</Width>
+            <Width>95.756666666666661</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -14608,7 +14584,7 @@ transporte de la siguiente caja?</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>149.93333333333334</Width>
+            <Width>147.93333333333334</Width>
             <TypeEnum>ActionConditional</TypeEnum>
             <ConditionStr>!DP * [Contador &lt; 3]</ConditionStr>
             <TransitionStr />
@@ -14694,7 +14670,7 @@ transporte de la siguiente caja?</Caption>
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2020-03-03T17:39:55.6466338+01:00</DtGrafcetStructure>
+    <DtGrafcetStructure>2021-03-16T15:58:21.528617+01:00</DtGrafcetStructure>
     <DtInterpreterData>2020-02-26T12:03:45.3669946+01:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />

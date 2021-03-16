@@ -829,13 +829,13 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>649.16</Left>
+          <Left>647.16</Left>
           <Top>224</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>97.756666666666661</Width>
+        <Width>95.756666666666661</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -876,7 +876,7 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>91.159999999999968</Width>
+        <Width>89.159999999999968</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -1332,7 +1332,7 @@ de flanco de subida</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>170.32000000000005</Width>
+        <Width>168.32000000000005</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -2435,13 +2435,13 @@ de flanco de subida</Caption>
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>681.16</Left>
+          <Left>679.16</Left>
           <Top>208</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>97.756666666666661</Width>
+        <Width>95.756666666666661</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -2482,7 +2482,7 @@ de flanco de subida</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>91.159999999999968</Width>
+        <Width>89.159999999999968</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -2599,7 +2599,7 @@ de flanco de subida</Caption>
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>760.32</Left>
+          <Left>758.32</Left>
           <Top>400</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
@@ -2983,7 +2983,7 @@ para esto es emplear flancos de subida</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>170.32000000000005</Width>
+        <Width>168.32000000000005</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -3024,7 +3024,7 @@ para esto es emplear flancos de subida</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>183.51333333333332</Width>
+        <Width>181.51333333333332</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -3557,7 +3557,7 @@ para esto es emplear flancos de subida</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>91.159999999999968</Width>
+        <Width>89.159999999999968</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -4022,30 +4022,6 @@ para esto es emplear flancos de subida</Caption>
     <TotalLenght>307</TotalLenght>
   </SimulatorIoSettings>
   <Settings>
-    <PrintSettings>
-      <PrintFooter>true</PrintFooter>
-      <PrintHeader>true</PrintHeader>
-      <PrintMargins>
-        <Top>10</Top>
-        <Bottom>10</Bottom>
-        <Left>20</Left>
-        <Right>10</Right>
-      </PrintMargins>
-      <FooterLeft>Printed with Grafcet-Studio</FooterLeft>
-      <FooterMiddle />
-      <FooterRight>{PageNr}</FooterRight>
-      <HeaderLeft>{ProjectName}</HeaderLeft>
-      <HeaderMiddle>{PageName}</HeaderMiddle>
-      <HeaderRight>{DateAndTime}</HeaderRight>
-      <PrintLogoHightInMmArray>
-        <int>10</int>
-        <int>10</int>
-        <int>10</int>
-        <int>10</int>
-      </PrintLogoHightInMmArray>
-      <GrafcetScaleFactor>40</GrafcetScaleFactor>
-      <SymbolTableScaleFactor>100</SymbolTableScaleFactor>
-    </PrintSettings>
     <StepSituationSettings>
       <IsCurrentSituationModified>false</IsCurrentSituationModified>
       <StepsTextboxEnabled>false</StepsTextboxEnabled>
@@ -4878,13 +4854,13 @@ para esto es emplear flancos de subida</Caption>
             <IsHorizontalTransition>false</IsHorizontalTransition>
             <IsStartStep>false</IsStartStep>
             <Margin>
-              <Left>649.16</Left>
+              <Left>647.16</Left>
               <Top>224</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>97.756666666666661</Width>
+            <Width>95.756666666666661</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -4925,7 +4901,7 @@ para esto es emplear flancos de subida</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>91.159999999999968</Width>
+            <Width>89.159999999999968</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -5381,7 +5357,7 @@ de flanco de subida</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>170.32000000000005</Width>
+            <Width>168.32000000000005</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -6484,13 +6460,13 @@ de flanco de subida</Caption>
             <IsHorizontalTransition>false</IsHorizontalTransition>
             <IsStartStep>false</IsStartStep>
             <Margin>
-              <Left>681.16</Left>
+              <Left>679.16</Left>
               <Top>208</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>97.756666666666661</Width>
+            <Width>95.756666666666661</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -6531,7 +6507,7 @@ de flanco de subida</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>91.159999999999968</Width>
+            <Width>89.159999999999968</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -6648,7 +6624,7 @@ de flanco de subida</Caption>
             <IsHorizontalTransition>false</IsHorizontalTransition>
             <IsStartStep>false</IsStartStep>
             <Margin>
-              <Left>760.32</Left>
+              <Left>758.32</Left>
               <Top>400</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
@@ -7032,7 +7008,7 @@ para esto es emplear flancos de subida</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>170.32000000000005</Width>
+            <Width>168.32000000000005</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -7073,7 +7049,7 @@ para esto es emplear flancos de subida</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>183.51333333333332</Width>
+            <Width>181.51333333333332</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -7606,7 +7582,7 @@ para esto es emplear flancos de subida</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>91.159999999999968</Width>
+            <Width>89.159999999999968</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -7692,7 +7668,7 @@ para esto es emplear flancos de subida</Caption>
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2020-03-03T16:59:35.3051496+01:00</DtGrafcetStructure>
+    <DtGrafcetStructure>2021-03-16T15:46:26.4851544+01:00</DtGrafcetStructure>
     <DtInterpreterData>2020-03-03T16:59:35.3051496+01:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />
