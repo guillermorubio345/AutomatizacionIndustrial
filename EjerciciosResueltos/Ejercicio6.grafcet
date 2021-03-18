@@ -1572,7 +1572,7 @@
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
-        <Height>82.97</Height>
+        <Height>59.550000000000011</Height>
         <Width>483.71333333333337</Width>
         <TypeEnum>Comment</TypeEnum>
         <ConditionStr>1</ConditionStr>
@@ -1582,9 +1582,7 @@
 - Se podría evitar la divergencia en O después de la etapa 4
 - Si el tiempo es más largo de lo que tarda el disco en llegar desde B hasta A
 la máquina se quedaría sin responder hasta que se apagara la bombilla. Si nos pidieran
-evitar ese bloqueo, ¿como deberíamos modificar el GRAFCET?
-- Si el tiempo es menor de lo que tarda el disco en irse de B, se volvería a encender
-sin que tenga que hacerlo, ¿como evitamos eso?</Caption>
+evitar ese bloqueo, ¿como deberíamos modificar el GRAFCET?</Caption>
         <Id>296074f6-3353-49cf-a6db-32335b12a779</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -2799,7 +2797,7 @@ sin que tenga que hacerlo, ¿como evitamos eso?</Caption>
         <IsGenerated>true</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -2814,7 +2812,7 @@ sin que tenga que hacerlo, ¿como evitamos eso?</Caption>
         <Width>80</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>↑B</TransitionStr>
+        <TransitionStr>B</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>6a191d69-b364-4a07-b4da-9f16e6a6a191</Id>
@@ -3384,15 +3382,18 @@ sin que tenga que hacerlo, ¿como evitamos eso?</Caption>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
-        <Height>36.129999999999995</Height>
-        <Width>412.25666666666666</Width>
+        <Height>71.26</Height>
+        <Width>478.2166666666667</Width>
         <TypeEnum>Comment</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
         <Caption>Una solución podría ser independizar totalmente los procesos separandolas
 en una divergencia en Y que nunca converja. Estamos utilizando
-la divergencia para algo para lo que realmente no está pensada</Caption>
+la divergencia para algo para lo que realmente no está pensada.
+
+- Si el tiempo es menor de lo que tarda el disco en irse de B, se volvería a encender
+sin que tenga que hacerlo, ¿como evitamos eso?</Caption>
         <Id>83d87232-7311-4f2e-a26e-721d2c99260c</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -3787,7 +3788,7 @@ la divergencia para algo para lo que realmente no está pensada</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -3992,7 +3993,7 @@ la divergencia para algo para lo que realmente no está pensada</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -4007,7 +4008,7 @@ la divergencia para algo para lo que realmente no está pensada</Caption>
         <Width>80</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>P</TransitionStr>
+        <TransitionStr>↑P</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>297810b4-7228-454a-973e-8306095c2a9d</Id>
@@ -4695,19 +4696,22 @@ la divergencia para algo para lo que realmente no está pensada</Caption>
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>480</Left>
+          <Left>440</Left>
           <Top>56</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
-        <Height>24.42</Height>
+        <Height>59.550000000000011</Height>
         <Width>340.79999999999995</Width>
         <TypeEnum>Comment</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
         <Caption>Otra solución válida sería hacerlo totalmente independiente,
-mediante otro grafcet paralelo</Caption>
+mediante otro grafcet paralelo.
+
+Para evitar que se vuelva a encender la bombilla si el
+disco ha permanecido más tiempo en B debemos utilizar RE</Caption>
         <Id>55aec0e3-16ed-47da-aceb-5257c66f710b</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -4734,15 +4738,15 @@ mediante otro grafcet paralelo</Caption>
   </Grafcets>
   <GrafcetsProperties>
     <GrafcetItemCollectionHelper>
-      <Title>Grafcet-1</Title>
+      <Title>Version-1</Title>
       <HasErrors>false</HasErrors>
     </GrafcetItemCollectionHelper>
     <GrafcetItemCollectionHelper>
-      <Title>Grafcet-2</Title>
+      <Title>Version-2</Title>
       <HasErrors>false</HasErrors>
     </GrafcetItemCollectionHelper>
     <GrafcetItemCollectionHelper>
-      <Title>Grafcet-3</Title>
+      <Title>Version-3</Title>
       <HasErrors>false</HasErrors>
     </GrafcetItemCollectionHelper>
   </GrafcetsProperties>
@@ -6735,7 +6739,7 @@ mediante otro grafcet paralelo</Caption>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
-            <Height>82.97</Height>
+            <Height>59.550000000000011</Height>
             <Width>483.71333333333337</Width>
             <TypeEnum>Comment</TypeEnum>
             <ConditionStr>1</ConditionStr>
@@ -6745,9 +6749,7 @@ mediante otro grafcet paralelo</Caption>
 - Se podría evitar la divergencia en O después de la etapa 4
 - Si el tiempo es más largo de lo que tarda el disco en llegar desde B hasta A
 la máquina se quedaría sin responder hasta que se apagara la bombilla. Si nos pidieran
-evitar ese bloqueo, ¿como deberíamos modificar el GRAFCET?
-- Si el tiempo es menor de lo que tarda el disco en irse de B, se volvería a encender
-sin que tenga que hacerlo, ¿como evitamos eso?</Caption>
+evitar ese bloqueo, ¿como deberíamos modificar el GRAFCET?</Caption>
             <Id>296074f6-3353-49cf-a6db-32335b12a779</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -7962,7 +7964,7 @@ sin que tenga que hacerlo, ¿como evitamos eso?</Caption>
             <IsGenerated>true</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -7977,7 +7979,7 @@ sin que tenga que hacerlo, ¿como evitamos eso?</Caption>
             <Width>80</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>↑B</TransitionStr>
+            <TransitionStr>B</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>6a191d69-b364-4a07-b4da-9f16e6a6a191</Id>
@@ -8547,15 +8549,18 @@ sin que tenga que hacerlo, ¿como evitamos eso?</Caption>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
-            <Height>36.129999999999995</Height>
-            <Width>412.25666666666666</Width>
+            <Height>71.26</Height>
+            <Width>478.2166666666667</Width>
             <TypeEnum>Comment</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
             <Caption>Una solución podría ser independizar totalmente los procesos separandolas
 en una divergencia en Y que nunca converja. Estamos utilizando
-la divergencia para algo para lo que realmente no está pensada</Caption>
+la divergencia para algo para lo que realmente no está pensada.
+
+- Si el tiempo es menor de lo que tarda el disco en irse de B, se volvería a encender
+sin que tenga que hacerlo, ¿como evitamos eso?</Caption>
             <Id>83d87232-7311-4f2e-a26e-721d2c99260c</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -8950,7 +8955,7 @@ la divergencia para algo para lo que realmente no está pensada</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -9155,7 +9160,7 @@ la divergencia para algo para lo que realmente no está pensada</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -9170,7 +9175,7 @@ la divergencia para algo para lo que realmente no está pensada</Caption>
             <Width>80</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>P</TransitionStr>
+            <TransitionStr>↑P</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>297810b4-7228-454a-973e-8306095c2a9d</Id>
@@ -9858,19 +9863,22 @@ la divergencia para algo para lo que realmente no está pensada</Caption>
             <IsHorizontalTransition>false</IsHorizontalTransition>
             <IsStartStep>false</IsStartStep>
             <Margin>
-              <Left>480</Left>
+              <Left>440</Left>
               <Top>56</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
-            <Height>24.42</Height>
+            <Height>59.550000000000011</Height>
             <Width>340.79999999999995</Width>
             <TypeEnum>Comment</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
             <Caption>Otra solución válida sería hacerlo totalmente independiente,
-mediante otro grafcet paralelo</Caption>
+mediante otro grafcet paralelo.
+
+Para evitar que se vuelva a encender la bombilla si el
+disco ha permanecido más tiempo en B debemos utilizar RE</Caption>
             <Id>55aec0e3-16ed-47da-aceb-5257c66f710b</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -9910,8 +9918,8 @@ mediante otro grafcet paralelo</Caption>
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2021-03-16T15:43:42.4243572+01:00</DtGrafcetStructure>
-    <DtInterpreterData>2020-02-26T10:38:26.0395734+01:00</DtInterpreterData>
+    <DtGrafcetStructure>2021-03-18T10:40:26.9577642+01:00</DtGrafcetStructure>
+    <DtInterpreterData>2021-03-18T10:39:57.2643581+01:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />
     <IoPanelSettings>
