@@ -10,7 +10,7 @@
         <IsStartStep>false</IsStartStep>
         <Margin>
           <Left>320</Left>
-          <Top>48</Top>
+          <Top>144</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -92,7 +92,7 @@
         <IsStartStep>false</IsStartStep>
         <Margin>
           <Left>288</Left>
-          <Top>112</Top>
+          <Top>32</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -133,7 +133,7 @@
         <IsStartStep>false</IsStartStep>
         <Margin>
           <Left>288</Left>
-          <Top>144</Top>
+          <Top>64</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -297,7 +297,7 @@
         <IsStartStep>false</IsStartStep>
         <Margin>
           <Left>382</Left>
-          <Top>16</Top>
+          <Top>112</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -331,14 +331,14 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
           <Left>336</Left>
-          <Top>16</Top>
+          <Top>112</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -454,7 +454,7 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -871,7 +871,7 @@
         <IsStartStep>false</IsStartStep>
         <Margin>
           <Left>288</Left>
-          <Top>32</Top>
+          <Top>128</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -905,14 +905,14 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
           <Left>288</Left>
-          <Top>64</Top>
+          <Top>160</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -946,14 +946,14 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
           <Left>320</Left>
-          <Top>128</Top>
+          <Top>48</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -994,7 +994,7 @@
         <IsStartStep>false</IsStartStep>
         <Margin>
           <Left>382</Left>
-          <Top>96</Top>
+          <Top>16</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -1028,14 +1028,14 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
           <Left>336</Left>
-          <Top>96</Top>
+          <Top>16</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -1513,7 +1513,7 @@
             <IsStartStep>false</IsStartStep>
             <Margin>
               <Left>320</Left>
-              <Top>48</Top>
+              <Top>144</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
@@ -1595,7 +1595,7 @@
             <IsStartStep>false</IsStartStep>
             <Margin>
               <Left>288</Left>
-              <Top>112</Top>
+              <Top>32</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
@@ -1636,7 +1636,7 @@
             <IsStartStep>false</IsStartStep>
             <Margin>
               <Left>288</Left>
-              <Top>144</Top>
+              <Top>64</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
@@ -1800,7 +1800,7 @@
             <IsStartStep>false</IsStartStep>
             <Margin>
               <Left>382</Left>
-              <Top>16</Top>
+              <Top>112</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
@@ -1834,14 +1834,14 @@
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
             <IsStartStep>false</IsStartStep>
             <Margin>
               <Left>336</Left>
-              <Top>16</Top>
+              <Top>112</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
@@ -1957,7 +1957,7 @@
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -2374,7 +2374,7 @@
             <IsStartStep>false</IsStartStep>
             <Margin>
               <Left>288</Left>
-              <Top>32</Top>
+              <Top>128</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
@@ -2408,14 +2408,14 @@
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
             <IsStartStep>false</IsStartStep>
             <Margin>
               <Left>288</Left>
-              <Top>64</Top>
+              <Top>160</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
@@ -2449,14 +2449,14 @@
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
             <IsStartStep>false</IsStartStep>
             <Margin>
               <Left>320</Left>
-              <Top>128</Top>
+              <Top>48</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
@@ -2497,7 +2497,7 @@
             <IsStartStep>false</IsStartStep>
             <Margin>
               <Left>382</Left>
-              <Top>96</Top>
+              <Top>16</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
@@ -2531,14 +2531,14 @@
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
             <IsStartStep>false</IsStartStep>
             <Margin>
               <Left>336</Left>
-              <Top>96</Top>
+              <Top>16</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
@@ -2588,7 +2588,7 @@
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2021-03-15T16:45:48.4695879+01:00</DtGrafcetStructure>
+    <DtGrafcetStructure>2021-03-17T20:14:26.5822071+01:00</DtGrafcetStructure>
     <DtInterpreterData>2021-03-15T16:45:48.4695879+01:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />
