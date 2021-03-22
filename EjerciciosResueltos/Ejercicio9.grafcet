@@ -2875,7 +2875,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -3162,7 +3162,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -3285,7 +3285,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -3531,7 +3531,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -3736,7 +3736,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -3818,7 +3818,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -3859,7 +3859,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -5265,7 +5265,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>51.579999999999927</Width>
+        <Width>49.579999999999927</Width>
         <TypeEnum>ActionNormal</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -5678,276 +5678,6 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
       <DbByteAddr>25</DbByteAddr>
       <DbBitAddr>3</DbBitAddr>
     </SymbolItem>
-    <SymbolItem>
-      <Address>I0.5</Address>
-      <Symbol>I13</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Input</SymbolType>
-      <DbByteAddr>0</DbByteAddr>
-      <DbBitAddr>5</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>I0.6</Address>
-      <Symbol>I14</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Input</SymbolType>
-      <DbByteAddr>0</DbByteAddr>
-      <DbBitAddr>6</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>I0.7</Address>
-      <Symbol>I15</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Input</SymbolType>
-      <DbByteAddr>0</DbByteAddr>
-      <DbBitAddr>7</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q0.4</Address>
-      <Symbol>Q0</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>25</DbByteAddr>
-      <DbBitAddr>4</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q0.5</Address>
-      <Symbol>Q1</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>25</DbByteAddr>
-      <DbBitAddr>5</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q0.6</Address>
-      <Symbol>Q2</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>25</DbByteAddr>
-      <DbBitAddr>6</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q0.7</Address>
-      <Symbol>Q3</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>25</DbByteAddr>
-      <DbBitAddr>7</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.0</Address>
-      <Symbol>Q4</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.1</Address>
-      <Symbol>Q5</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>1</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.2</Address>
-      <Symbol>Q6</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>2</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.3</Address>
-      <Symbol>Q7</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>3</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.4</Address>
-      <Symbol>Q8</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>4</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.5</Address>
-      <Symbol>Q9</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>5</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.6</Address>
-      <Symbol>Q10</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>6</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.7</Address>
-      <Symbol>Q11</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>7</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q2.0</Address>
-      <Symbol>Q12</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>27</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q2.1</Address>
-      <Symbol>Q13</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>27</DbByteAddr>
-      <DbBitAddr>1</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q2.2</Address>
-      <Symbol>Q14</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>27</DbByteAddr>
-      <DbBitAddr>2</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q2.3</Address>
-      <Symbol>Q15</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>27</DbByteAddr>
-      <DbBitAddr>3</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>I256-I257</Address>
-      <Symbol>AI0</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Input</SymbolType>
-      <DbByteAddr>50</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>I258-I259</Address>
-      <Symbol>AI1</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Input</SymbolType>
-      <DbByteAddr>52</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>I260-I261</Address>
-      <Symbol>AI2</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Input</SymbolType>
-      <DbByteAddr>54</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>I262-I263</Address>
-      <Symbol>AI3</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Input</SymbolType>
-      <DbByteAddr>56</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q256-Q257</Address>
-      <Symbol>AO0</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>100</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q258-Q259</Address>
-      <Symbol>AO1</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>102</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q260-Q261</Address>
-      <Symbol>AO2</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>104</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q262-Q263</Address>
-      <Symbol>AO3</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>106</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
   </Symbols>
   <SimulatorIoSettings>
     <StartAddrDiInPlc>0</StartAddrDiInPlc>
@@ -5971,30 +5701,6 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
     <TotalLenght>307</TotalLenght>
   </SimulatorIoSettings>
   <Settings>
-    <PrintSettings>
-      <PrintFooter>true</PrintFooter>
-      <PrintHeader>true</PrintHeader>
-      <PrintMargins>
-        <Top>10</Top>
-        <Bottom>10</Bottom>
-        <Left>20</Left>
-        <Right>10</Right>
-      </PrintMargins>
-      <FooterLeft>Printed with Grafcet-Studio</FooterLeft>
-      <FooterMiddle />
-      <FooterRight>{PageNr}</FooterRight>
-      <HeaderLeft>{ProjectName}</HeaderLeft>
-      <HeaderMiddle>{PageName}</HeaderMiddle>
-      <HeaderRight>{DateAndTime}</HeaderRight>
-      <PrintLogoHightInMmArray>
-        <int>10</int>
-        <int>10</int>
-        <int>10</int>
-        <int>10</int>
-      </PrintLogoHightInMmArray>
-      <GrafcetScaleFactor>40</GrafcetScaleFactor>
-      <SymbolTableScaleFactor>100</SymbolTableScaleFactor>
-    </PrintSettings>
     <StepSituationSettings>
       <IsCurrentSituationModified>false</IsCurrentSituationModified>
       <StepsTextboxEnabled>false</StepsTextboxEnabled>
@@ -8873,7 +8579,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -9160,7 +8866,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -9283,7 +8989,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -9529,7 +9235,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -9734,7 +9440,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -9816,7 +9522,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -9857,7 +9563,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -11263,7 +10969,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>51.579999999999927</Width>
+            <Width>49.579999999999927</Width>
             <TypeEnum>ActionNormal</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -11554,7 +11260,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2020-03-10T17:03:44.000912+01:00</DtGrafcetStructure>
+    <DtGrafcetStructure>2021-03-22T16:40:39.8852953+01:00</DtGrafcetStructure>
     <DtInterpreterData>2020-03-10T17:03:34.0210426+01:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />
