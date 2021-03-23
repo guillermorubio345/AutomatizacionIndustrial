@@ -184,7 +184,7 @@
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>1</Caption>
+        <Caption>200</Caption>
         <Id>42656a3b-03c4-4315-a871-fb44cd1a449c</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -249,7 +249,7 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -266,7 +266,7 @@
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>2</Caption>
+        <Caption>201</Caption>
         <Id>62bbb608-d9a7-46cd-ab51-efcb1882724e</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -454,7 +454,7 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -471,7 +471,7 @@
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>15</Caption>
+        <Caption>108</Caption>
         <Id>442dd88d-1e3b-4fce-b615-94f54c6f17ce</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -507,7 +507,7 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>58.176666666666677</Width>
+        <Width>56.176666666666677</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -700,7 +700,7 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -782,7 +782,7 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -794,10 +794,10 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>100.35333333333335</Width>
+        <Width>106.74000000000001</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>FC1*FC2</TransitionStr>
+        <TransitionStr>!FC1*!FC2</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>3ab87a0a-7401-4f8f-b0cc-6052c36d380d</Id>
@@ -840,7 +840,7 @@
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>16</Caption>
+        <Caption>106</Caption>
         <Id>47696a00-3eaa-42b3-b3cb-0bfacf7b568d</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -987,14 +987,14 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
           <Left>944</Left>
-          <Top>335.99999999999903</Top>
+          <Top>336</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -1004,7 +1004,7 @@
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>17</Caption>
+        <Caption>109</Caption>
         <Id>6a0ca227-d180-44fa-af37-9e727a36d888</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -1040,7 +1040,7 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>91.160000000000082</Width>
+        <Width>89.160000000000082</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -1192,7 +1192,7 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -1209,7 +1209,7 @@
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>18</Caption>
+        <Caption>107</Caption>
         <Id>39e81323-6702-448d-b0d3-43b8db17d696</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -1327,10 +1327,10 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>87.160000000000025</Width>
+        <Width>96.353333333333353</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>3s/X18</TransitionStr>
+        <TransitionStr>3s/X107</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>73a6f67f-a3d4-4238-a7ad-b6aa952c0dee</Id>
@@ -1455,7 +1455,7 @@
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>16</Caption>
+        <Caption>106</Caption>
         <Id>a7a7a84b-1fa2-4bfd-860a-5f4199a44624</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -1496,7 +1496,7 @@
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>7</Caption>
+        <Caption>100</Caption>
         <Id>0d35b78a-565b-4adc-ae40-75d132239d85</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -1578,7 +1578,7 @@
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>774ad3af-3050-4312-a2b9-31534b5857ba</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -1660,7 +1660,7 @@
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>7</Caption>
+        <Caption>100</Caption>
         <Id>69fad410-a527-4d1a-bff6-7e6624aaeccd</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -1726,7 +1726,7 @@ preposicionamiento</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -1808,7 +1808,7 @@ preposicionamiento</Caption>
         <IsGenerated>true</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -1890,7 +1890,7 @@ preposicionamiento</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -1907,7 +1907,7 @@ preposicionamiento</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>9</Caption>
+        <Caption>301</Caption>
         <Id>71749e99-62bb-4bb5-8a93-9f3b436ba6ed</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -1989,7 +1989,7 @@ preposicionamiento</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>1</Caption>
+        <Caption>200</Caption>
         <Id>580b2906-ee04-42b1-b398-dd199693ea88</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -2071,7 +2071,7 @@ preposicionamiento</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>12</Caption>
+        <Caption>103</Caption>
         <Id>3a9271b6-980b-421e-b6e0-c25a83906367</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -2233,7 +2233,7 @@ preposicionamiento</Caption>
         <Width>80</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>FC1</TransitionStr>
+        <TransitionStr>!FC1</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>a99c75df-9794-423a-9e77-0d491c84e4b1</Id>
@@ -2276,7 +2276,7 @@ preposicionamiento</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>11</Caption>
+        <Caption>102</Caption>
         <Id>a1264e08-6c86-4d2b-b784-698b4aa9c911</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -2315,7 +2315,7 @@ preposicionamiento</Caption>
         <Width>80</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>FC2</TransitionStr>
+        <TransitionStr>!FC2</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>23f86bd4-8014-4ebd-a709-5ac7cfcf0a8b</Id>
@@ -2358,7 +2358,7 @@ preposicionamiento</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>10</Caption>
+        <Caption>101</Caption>
         <Id>4cacc32e-d27a-4294-b6f3-4c15e491cbe0</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -2517,10 +2517,10 @@ preposicionamiento</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>110.74000000000001</Width>
+        <Width>96.353333333333353</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>!FC1*!FC2</TransitionStr>
+        <TransitionStr>FC1*FC2</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>e209ecfd-97ce-442d-9f28-59aa1a257e92</Id>
@@ -2563,7 +2563,7 @@ preposicionamiento</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>14</Caption>
+        <Caption>105</Caption>
         <Id>bd2bc15b-1c9d-4c22-a383-a1fbacc24334</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -2710,7 +2710,7 @@ preposicionamiento</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -2973,7 +2973,7 @@ preposicionamiento</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>13</Caption>
+        <Caption>104</Caption>
         <Id>29313b48-d4fb-4ce0-b153-7dc0d089b96d</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -3038,7 +3038,7 @@ preposicionamiento</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -3178,7 +3178,7 @@ preposicionamiento</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>6</Caption>
+        <Caption>204</Caption>
         <Id>e596149f-b573-476b-840c-59b97d5c9fdd</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -3342,7 +3342,7 @@ preposicionamiento</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>3</Caption>
+        <Caption>202</Caption>
         <Id>c1d2a290-861b-407e-8370-56e0026db98f</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -3506,7 +3506,7 @@ preposicionamiento</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>5</Caption>
+        <Caption>205</Caption>
         <Id>b3c58446-7cd1-4196-9219-a4d8750e0137</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -3542,7 +3542,7 @@ preposicionamiento</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>91.160000000000025</Width>
+        <Width>89.160000000000025</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -3711,7 +3711,7 @@ preposicionamiento</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>4</Caption>
+        <Caption>203</Caption>
         <Id>00373817-afc1-43f9-8e19-d42da1e8144f</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -3829,10 +3829,10 @@ preposicionamiento</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>80</Width>
+        <Width>96.353333333333353</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>3s/X4</TransitionStr>
+        <TransitionStr>3s/X203</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>a40bc345-9440-4a92-9bd1-f777ee77db91</Id>
@@ -3957,7 +3957,7 @@ preposicionamiento</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>3</Caption>
+        <Caption>202</Caption>
         <Id>3aca558a-84fb-4f45-a924-19d0db275889</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -3998,7 +3998,7 @@ preposicionamiento</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>7</Caption>
+        <Caption>100</Caption>
         <Id>045c534e-9ba4-4621-b856-da47787a391c</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -4039,7 +4039,7 @@ preposicionamiento</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>16</Caption>
+        <Caption>106</Caption>
         <Id>8a6a1358-d196-4667-b973-67420af0b989</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -4247,7 +4247,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>67a049f0-1a30-4dd8-9efe-dbd553ae9b3e</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -4370,7 +4370,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>4d43bc3e-b560-468a-a422-b0f37abcca40</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -4493,7 +4493,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>252a1034-3525-4a32-afba-0b1fe69134d7</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -4616,7 +4616,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>ef18edbe-41b4-4388-a697-114856c15079</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -4739,7 +4739,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>6a10c96c-0e96-47bf-bb63-ac9a54a8a356</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -4862,7 +4862,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>5bc39249-51b1-48b3-87e1-b1274ce78b3e</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -5067,7 +5067,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>221a9b9b-f6de-4848-a04d-1481522bd048</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -5190,7 +5190,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>57c65269-4308-4571-9376-c6ded6cf00d2</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -5313,7 +5313,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>5be644e8-0b02-4ea3-a3ac-c8bf0566f06a</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -5436,7 +5436,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>e514d792-5445-4f43-ade0-6f1fafe59e09</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -5559,7 +5559,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>da1b9f2d-3cfb-456b-87b7-b269e0af50da</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -5682,7 +5682,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>7fb3891d-1b5c-4305-a1ce-34713e4427f8</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -5805,7 +5805,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>e66a91b3-238e-438f-97d5-f9eea637ca11</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -5928,7 +5928,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>c6a2bfde-fb52-4b4d-ac71-d4039539a601</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -6051,7 +6051,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>c664de27-40a9-4da6-a60d-fa6ded162b96</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -6174,7 +6174,7 @@ iniciales</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>8</Caption>
+        <Caption>300</Caption>
         <Id>78ac9130-41a5-4fd8-b0b1-380adae4148c</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -6387,266 +6387,6 @@ iniciales</Caption>
       <DbByteAddr>175</DbByteAddr>
       <DbBitAddr>0</DbBitAddr>
     </SymbolItem>
-    <SymbolItem>
-      <Address>I1.0</Address>
-      <Symbol>I14</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Input</SymbolType>
-      <DbByteAddr>1</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>I1.1</Address>
-      <Symbol>I15</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Input</SymbolType>
-      <DbByteAddr>1</DbByteAddr>
-      <DbBitAddr>1</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q0.5</Address>
-      <Symbol>Q0</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>25</DbByteAddr>
-      <DbBitAddr>5</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q0.6</Address>
-      <Symbol>Q1</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>25</DbByteAddr>
-      <DbBitAddr>6</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q0.7</Address>
-      <Symbol>Q2</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>25</DbByteAddr>
-      <DbBitAddr>7</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.0</Address>
-      <Symbol>Q3</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.1</Address>
-      <Symbol>Q4</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>1</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.2</Address>
-      <Symbol>Q5</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>2</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.3</Address>
-      <Symbol>Q6</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>3</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.4</Address>
-      <Symbol>Q7</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>4</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.5</Address>
-      <Symbol>Q8</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>5</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.6</Address>
-      <Symbol>Q9</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>6</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q1.7</Address>
-      <Symbol>Q10</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>26</DbByteAddr>
-      <DbBitAddr>7</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q2.0</Address>
-      <Symbol>Q11</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>27</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q2.1</Address>
-      <Symbol>Q12</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>27</DbByteAddr>
-      <DbBitAddr>1</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q2.2</Address>
-      <Symbol>Q13</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>27</DbByteAddr>
-      <DbBitAddr>2</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q2.3</Address>
-      <Symbol>Q14</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>27</DbByteAddr>
-      <DbBitAddr>3</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q2.4</Address>
-      <Symbol>Q15</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>27</DbByteAddr>
-      <DbBitAddr>4</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>I256-I257</Address>
-      <Symbol>AI0</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Input</SymbolType>
-      <DbByteAddr>50</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>I258-I259</Address>
-      <Symbol>AI1</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Input</SymbolType>
-      <DbByteAddr>52</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>I260-I261</Address>
-      <Symbol>AI2</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Input</SymbolType>
-      <DbByteAddr>54</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>I262-I263</Address>
-      <Symbol>AI3</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Input</SymbolType>
-      <DbByteAddr>56</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q256-Q257</Address>
-      <Symbol>AO0</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>100</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q258-Q259</Address>
-      <Symbol>AO1</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>102</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q260-Q261</Address>
-      <Symbol>AO2</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>104</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>Q262-Q263</Address>
-      <Symbol>AO3</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>INT16</DataType>
-      <SymbolType>Output</SymbolType>
-      <DbByteAddr>106</DbByteAddr>
-      <DbBitAddr>0</DbBitAddr>
-    </SymbolItem>
   </Symbols>
   <SimulatorIoSettings>
     <StartAddrDiInPlc>0</StartAddrDiInPlc>
@@ -6670,30 +6410,6 @@ iniciales</Caption>
     <TotalLenght>307</TotalLenght>
   </SimulatorIoSettings>
   <Settings>
-    <PrintSettings>
-      <PrintFooter>true</PrintFooter>
-      <PrintHeader>true</PrintHeader>
-      <PrintMargins>
-        <Top>10</Top>
-        <Bottom>10</Bottom>
-        <Left>20</Left>
-        <Right>10</Right>
-      </PrintMargins>
-      <FooterLeft>Printed with Grafcet-Studio</FooterLeft>
-      <FooterMiddle />
-      <FooterRight>{PageNr}</FooterRight>
-      <HeaderLeft>{ProjectName}</HeaderLeft>
-      <HeaderMiddle>{PageName}</HeaderMiddle>
-      <HeaderRight>{DateAndTime}</HeaderRight>
-      <PrintLogoHightInMmArray>
-        <int>10</int>
-        <int>10</int>
-        <int>10</int>
-        <int>10</int>
-      </PrintLogoHightInMmArray>
-      <GrafcetScaleFactor>40</GrafcetScaleFactor>
-      <SymbolTableScaleFactor>100</SymbolTableScaleFactor>
-    </PrintSettings>
     <StepSituationSettings>
       <IsCurrentSituationModified>false</IsCurrentSituationModified>
       <StepsTextboxEnabled>false</StepsTextboxEnabled>
@@ -6881,7 +6597,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>1</Caption>
+            <Caption>200</Caption>
             <Id>42656a3b-03c4-4315-a871-fb44cd1a449c</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -6946,7 +6662,7 @@ iniciales</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -6963,7 +6679,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>2</Caption>
+            <Caption>201</Caption>
             <Id>62bbb608-d9a7-46cd-ab51-efcb1882724e</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -7151,7 +6867,7 @@ iniciales</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -7168,7 +6884,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>15</Caption>
+            <Caption>108</Caption>
             <Id>442dd88d-1e3b-4fce-b615-94f54c6f17ce</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -7204,7 +6920,7 @@ iniciales</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>58.176666666666677</Width>
+            <Width>56.176666666666677</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -7397,7 +7113,7 @@ iniciales</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -7479,7 +7195,7 @@ iniciales</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -7491,10 +7207,10 @@ iniciales</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>100.35333333333335</Width>
+            <Width>106.74000000000001</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>FC1*FC2</TransitionStr>
+            <TransitionStr>!FC1*!FC2</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>3ab87a0a-7401-4f8f-b0cc-6052c36d380d</Id>
@@ -7537,7 +7253,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>16</Caption>
+            <Caption>106</Caption>
             <Id>47696a00-3eaa-42b3-b3cb-0bfacf7b568d</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -7684,14 +7400,14 @@ iniciales</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
             <IsStartStep>false</IsStartStep>
             <Margin>
               <Left>944</Left>
-              <Top>335.99999999999903</Top>
+              <Top>336</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
@@ -7701,7 +7417,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>17</Caption>
+            <Caption>109</Caption>
             <Id>6a0ca227-d180-44fa-af37-9e727a36d888</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -7737,7 +7453,7 @@ iniciales</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>91.160000000000082</Width>
+            <Width>89.160000000000082</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -7889,7 +7605,7 @@ iniciales</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -7906,7 +7622,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>18</Caption>
+            <Caption>107</Caption>
             <Id>39e81323-6702-448d-b0d3-43b8db17d696</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -8024,10 +7740,10 @@ iniciales</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>87.160000000000025</Width>
+            <Width>96.353333333333353</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>3s/X18</TransitionStr>
+            <TransitionStr>3s/X107</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>73a6f67f-a3d4-4238-a7ad-b6aa952c0dee</Id>
@@ -8152,7 +7868,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>16</Caption>
+            <Caption>106</Caption>
             <Id>a7a7a84b-1fa2-4bfd-860a-5f4199a44624</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -8193,7 +7909,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>7</Caption>
+            <Caption>100</Caption>
             <Id>0d35b78a-565b-4adc-ae40-75d132239d85</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -8275,7 +7991,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>774ad3af-3050-4312-a2b9-31534b5857ba</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -8357,7 +8073,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>7</Caption>
+            <Caption>100</Caption>
             <Id>69fad410-a527-4d1a-bff6-7e6624aaeccd</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -8423,7 +8139,7 @@ preposicionamiento</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -8505,7 +8221,7 @@ preposicionamiento</Caption>
             <IsGenerated>true</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -8587,7 +8303,7 @@ preposicionamiento</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -8604,7 +8320,7 @@ preposicionamiento</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>9</Caption>
+            <Caption>301</Caption>
             <Id>71749e99-62bb-4bb5-8a93-9f3b436ba6ed</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -8686,7 +8402,7 @@ preposicionamiento</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>1</Caption>
+            <Caption>200</Caption>
             <Id>580b2906-ee04-42b1-b398-dd199693ea88</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -8768,7 +8484,7 @@ preposicionamiento</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>12</Caption>
+            <Caption>103</Caption>
             <Id>3a9271b6-980b-421e-b6e0-c25a83906367</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -8930,7 +8646,7 @@ preposicionamiento</Caption>
             <Width>80</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>FC1</TransitionStr>
+            <TransitionStr>!FC1</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>a99c75df-9794-423a-9e77-0d491c84e4b1</Id>
@@ -8973,7 +8689,7 @@ preposicionamiento</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>11</Caption>
+            <Caption>102</Caption>
             <Id>a1264e08-6c86-4d2b-b784-698b4aa9c911</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -9012,7 +8728,7 @@ preposicionamiento</Caption>
             <Width>80</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>FC2</TransitionStr>
+            <TransitionStr>!FC2</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>23f86bd4-8014-4ebd-a709-5ac7cfcf0a8b</Id>
@@ -9055,7 +8771,7 @@ preposicionamiento</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>10</Caption>
+            <Caption>101</Caption>
             <Id>4cacc32e-d27a-4294-b6f3-4c15e491cbe0</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -9214,10 +8930,10 @@ preposicionamiento</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>110.74000000000001</Width>
+            <Width>96.353333333333353</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>!FC1*!FC2</TransitionStr>
+            <TransitionStr>FC1*FC2</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>e209ecfd-97ce-442d-9f28-59aa1a257e92</Id>
@@ -9260,7 +8976,7 @@ preposicionamiento</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>14</Caption>
+            <Caption>105</Caption>
             <Id>bd2bc15b-1c9d-4c22-a383-a1fbacc24334</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -9407,7 +9123,7 @@ preposicionamiento</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -9670,7 +9386,7 @@ preposicionamiento</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>13</Caption>
+            <Caption>104</Caption>
             <Id>29313b48-d4fb-4ce0-b153-7dc0d089b96d</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -9735,7 +9451,7 @@ preposicionamiento</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -9875,7 +9591,7 @@ preposicionamiento</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>6</Caption>
+            <Caption>204</Caption>
             <Id>e596149f-b573-476b-840c-59b97d5c9fdd</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -10039,7 +9755,7 @@ preposicionamiento</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>3</Caption>
+            <Caption>202</Caption>
             <Id>c1d2a290-861b-407e-8370-56e0026db98f</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -10203,7 +9919,7 @@ preposicionamiento</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>5</Caption>
+            <Caption>205</Caption>
             <Id>b3c58446-7cd1-4196-9219-a4d8750e0137</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -10239,7 +9955,7 @@ preposicionamiento</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>91.160000000000025</Width>
+            <Width>89.160000000000025</Width>
             <TypeEnum>ActionActivation</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
@@ -10408,7 +10124,7 @@ preposicionamiento</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>4</Caption>
+            <Caption>203</Caption>
             <Id>00373817-afc1-43f9-8e19-d42da1e8144f</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -10526,10 +10242,10 @@ preposicionamiento</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>80</Width>
+            <Width>96.353333333333353</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>3s/X4</TransitionStr>
+            <TransitionStr>3s/X203</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>a40bc345-9440-4a92-9bd1-f777ee77db91</Id>
@@ -10654,7 +10370,7 @@ preposicionamiento</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>3</Caption>
+            <Caption>202</Caption>
             <Id>3aca558a-84fb-4f45-a924-19d0db275889</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -10695,7 +10411,7 @@ preposicionamiento</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>7</Caption>
+            <Caption>100</Caption>
             <Id>045c534e-9ba4-4621-b856-da47787a391c</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -10736,7 +10452,7 @@ preposicionamiento</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>16</Caption>
+            <Caption>106</Caption>
             <Id>8a6a1358-d196-4667-b973-67420af0b989</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -10944,7 +10660,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>67a049f0-1a30-4dd8-9efe-dbd553ae9b3e</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -11067,7 +10783,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>4d43bc3e-b560-468a-a422-b0f37abcca40</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -11190,7 +10906,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>252a1034-3525-4a32-afba-0b1fe69134d7</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -11313,7 +11029,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>ef18edbe-41b4-4388-a697-114856c15079</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -11436,7 +11152,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>6a10c96c-0e96-47bf-bb63-ac9a54a8a356</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -11559,7 +11275,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>5bc39249-51b1-48b3-87e1-b1274ce78b3e</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -11764,7 +11480,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>221a9b9b-f6de-4848-a04d-1481522bd048</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -11887,7 +11603,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>57c65269-4308-4571-9376-c6ded6cf00d2</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -12010,7 +11726,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>5be644e8-0b02-4ea3-a3ac-c8bf0566f06a</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -12133,7 +11849,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>e514d792-5445-4f43-ade0-6f1fafe59e09</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -12256,7 +11972,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>da1b9f2d-3cfb-456b-87b7-b269e0af50da</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -12379,7 +12095,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>7fb3891d-1b5c-4305-a1ce-34713e4427f8</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -12502,7 +12218,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>e66a91b3-238e-438f-97d5-f9eea637ca11</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -12625,7 +12341,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>c6a2bfde-fb52-4b4d-ac71-d4039539a601</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -12748,7 +12464,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>c664de27-40a9-4da6-a60d-fa6ded162b96</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -12871,7 +12587,7 @@ iniciales</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>8</Caption>
+            <Caption>300</Caption>
             <Id>78ac9130-41a5-4fd8-b0b1-380adae4148c</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -12952,8 +12668,8 @@ iniciales</Caption>
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2020-03-10T18:32:50.5152778+01:00</DtGrafcetStructure>
-    <DtInterpreterData>2020-03-10T10:04:29.8528156+01:00</DtInterpreterData>
+    <DtGrafcetStructure>2021-03-23T09:39:27.7899346+01:00</DtGrafcetStructure>
+    <DtInterpreterData>2021-03-23T09:39:27.7899346+01:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />
     <IoPanelSettings>
