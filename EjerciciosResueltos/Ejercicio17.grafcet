@@ -372,7 +372,7 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -384,9 +384,9 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>48</Width>
+        <Width>48.983333333333348</Width>
         <TypeEnum>ActionConditional</TypeEnum>
-        <ConditionStr>FCIZ</ConditionStr>
+        <ConditionStr>!FCIZ</ConditionStr>
         <TransitionStr />
         <ActionStr>MIZ</ActionStr>
         <Caption />
@@ -413,21 +413,21 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>190</Left>
+          <Left>190.98333333333335</Left>
           <Top>128</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>48</Width>
+        <Width>48.983333333333348</Width>
         <TypeEnum>ActionConditional</TypeEnum>
-        <ConditionStr>FCAB</ConditionStr>
+        <ConditionStr>!FCAB</ConditionStr>
         <TransitionStr />
         <ActionStr>MAB</ActionStr>
         <Caption />
@@ -507,7 +507,7 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>112</Width>
+        <Width>106.74000000000001</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr>FCIZ*FCAB</TransitionStr>
@@ -946,7 +946,7 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -958,9 +958,9 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>48</Width>
-        <TypeEnum>ActionNormal</TypeEnum>
-        <ConditionStr>1</ConditionStr>
+        <Width>48.983333333333348</Width>
+        <TypeEnum>ActionConditional</TypeEnum>
+        <ConditionStr>!FCAR</ConditionStr>
         <TransitionStr />
         <ActionStr>MAR</ActionStr>
         <Caption />
@@ -1602,7 +1602,7 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -1614,9 +1614,9 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>48</Width>
-        <TypeEnum>ActionNormal</TypeEnum>
-        <ConditionStr>1</ConditionStr>
+        <Width>48.983333333333348</Width>
+        <TypeEnum>ActionConditional</TypeEnum>
+        <ConditionStr>!FCIZ</ConditionStr>
         <TransitionStr />
         <ActionStr>MIZ</ActionStr>
         <Caption />
@@ -1848,7 +1848,7 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -1860,9 +1860,9 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>48</Width>
-        <TypeEnum>ActionNormal</TypeEnum>
-        <ConditionStr>1</ConditionStr>
+        <Width>48.983333333333348</Width>
+        <TypeEnum>ActionConditional</TypeEnum>
+        <ConditionStr>!FCDC</ConditionStr>
         <TransitionStr />
         <ActionStr>MDC</ActionStr>
         <Caption />
@@ -2053,7 +2053,7 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -2065,9 +2065,9 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>48</Width>
-        <TypeEnum>ActionNormal</TypeEnum>
-        <ConditionStr>1</ConditionStr>
+        <Width>48.983333333333348</Width>
+        <TypeEnum>ActionConditional</TypeEnum>
+        <ConditionStr>!FCAB</ConditionStr>
         <TransitionStr />
         <ActionStr>MAB</ActionStr>
         <Caption />
@@ -3839,7 +3839,7 @@
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -3851,9 +3851,9 @@
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>48</Width>
+            <Width>48.983333333333348</Width>
             <TypeEnum>ActionConditional</TypeEnum>
-            <ConditionStr>FCIZ</ConditionStr>
+            <ConditionStr>!FCIZ</ConditionStr>
             <TransitionStr />
             <ActionStr>MIZ</ActionStr>
             <Caption />
@@ -3880,21 +3880,21 @@
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
             <IsStartStep>false</IsStartStep>
             <Margin>
-              <Left>190</Left>
+              <Left>190.98333333333335</Left>
               <Top>128</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>48</Width>
+            <Width>48.983333333333348</Width>
             <TypeEnum>ActionConditional</TypeEnum>
-            <ConditionStr>FCAB</ConditionStr>
+            <ConditionStr>!FCAB</ConditionStr>
             <TransitionStr />
             <ActionStr>MAB</ActionStr>
             <Caption />
@@ -3974,7 +3974,7 @@
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>112</Width>
+            <Width>106.74000000000001</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr>FCIZ*FCAB</TransitionStr>
@@ -4413,7 +4413,7 @@
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -4425,9 +4425,9 @@
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>48</Width>
-            <TypeEnum>ActionNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
+            <Width>48.983333333333348</Width>
+            <TypeEnum>ActionConditional</TypeEnum>
+            <ConditionStr>!FCAR</ConditionStr>
             <TransitionStr />
             <ActionStr>MAR</ActionStr>
             <Caption />
@@ -5069,7 +5069,7 @@
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -5081,9 +5081,9 @@
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>48</Width>
-            <TypeEnum>ActionNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
+            <Width>48.983333333333348</Width>
+            <TypeEnum>ActionConditional</TypeEnum>
+            <ConditionStr>!FCIZ</ConditionStr>
             <TransitionStr />
             <ActionStr>MIZ</ActionStr>
             <Caption />
@@ -5315,7 +5315,7 @@
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -5327,9 +5327,9 @@
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>48</Width>
-            <TypeEnum>ActionNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
+            <Width>48.983333333333348</Width>
+            <TypeEnum>ActionConditional</TypeEnum>
+            <ConditionStr>!FCDC</ConditionStr>
             <TransitionStr />
             <ActionStr>MDC</ActionStr>
             <Caption />
@@ -5520,7 +5520,7 @@
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -5532,9 +5532,9 @@
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>48</Width>
-            <TypeEnum>ActionNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
+            <Width>48.983333333333348</Width>
+            <TypeEnum>ActionConditional</TypeEnum>
+            <ConditionStr>!FCAB</ConditionStr>
             <TransitionStr />
             <ActionStr>MAB</ActionStr>
             <Caption />
@@ -6766,8 +6766,8 @@
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2021-03-23T10:42:03.4330088+01:00</DtGrafcetStructure>
-    <DtInterpreterData>2021-03-23T10:42:03.4330088+01:00</DtInterpreterData>
+    <DtGrafcetStructure>2021-04-06T10:01:24.1097391+02:00</DtGrafcetStructure>
+    <DtInterpreterData>2021-04-06T10:01:24.1097391+02:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />
     <IoPanelSettings>

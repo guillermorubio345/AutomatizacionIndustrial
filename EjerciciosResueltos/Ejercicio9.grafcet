@@ -1985,10 +1985,10 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>121.12666666666667</Width>
+        <Width>117.12666666666667</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>(2s/X5)*!EM</TransitionStr>
+        <TransitionStr>(1s/X5)*!EM</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>1e8463e4-c314-46bd-866b-8e8b0ba0dfc8</Id>
@@ -2477,10 +2477,10 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>134.32000000000002</Width>
+        <Width>130.32000000000002</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>(2s/X11)*!EM</TransitionStr>
+        <TransitionStr>(1s/X11)*!EM</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>6ed40eb7-ea2b-493e-96a0-43a36450d4fd</Id>
@@ -3051,10 +3051,10 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>131.51333333333332</Width>
+        <Width>80</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>(1ms/X13)*!EM</TransitionStr>
+        <TransitionStr>!EM</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>4954475f-7580-4adc-ae95-d4a14457277c</Id>
@@ -3994,10 +3994,10 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>80</Height>
-        <Width>144.70666666666671</Width>
+        <Width>80</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>(10ms/X17)*!EM</TransitionStr>
+        <TransitionStr>!EM</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>b4546c99-23ce-4ba5-9cd8-6a0612f1f6bb</Id>
@@ -7689,10 +7689,10 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>121.12666666666667</Width>
+            <Width>117.12666666666667</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>(2s/X5)*!EM</TransitionStr>
+            <TransitionStr>(1s/X5)*!EM</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>1e8463e4-c314-46bd-866b-8e8b0ba0dfc8</Id>
@@ -8181,10 +8181,10 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>134.32000000000002</Width>
+            <Width>130.32000000000002</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>(2s/X11)*!EM</TransitionStr>
+            <TransitionStr>(1s/X11)*!EM</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>6ed40eb7-ea2b-493e-96a0-43a36450d4fd</Id>
@@ -8755,10 +8755,10 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>131.51333333333332</Width>
+            <Width>80</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>(1ms/X13)*!EM</TransitionStr>
+            <TransitionStr>!EM</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>4954475f-7580-4adc-ae95-d4a14457277c</Id>
@@ -9698,10 +9698,10 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>80</Height>
-            <Width>144.70666666666671</Width>
+            <Width>80</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>(10ms/X17)*!EM</TransitionStr>
+            <TransitionStr>!EM</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>b4546c99-23ce-4ba5-9cd8-6a0612f1f6bb</Id>
@@ -11260,8 +11260,8 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2021-03-22T16:40:39.8852953+01:00</DtGrafcetStructure>
-    <DtInterpreterData>2020-03-10T17:03:34.0210426+01:00</DtInterpreterData>
+    <DtGrafcetStructure>2021-04-06T09:02:57.4448003+02:00</DtGrafcetStructure>
+    <DtInterpreterData>2021-04-06T09:02:57.4448003+02:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />
     <IoPanelSettings>

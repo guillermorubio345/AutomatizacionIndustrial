@@ -824,7 +824,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
         <IsGenerated>true</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -839,7 +839,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
         <Width>80</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>3s/X3</TransitionStr>
+        <TransitionStr>3s/X7</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>b6fa11fb-1b8d-4286-92d8-919f7b3318b1</Id>
@@ -988,7 +988,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -1003,7 +1003,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
         <Width>80</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>1s/X6</TransitionStr>
+        <TransitionStr>1s/X4</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>8ace8653-b82c-4c8d-a039-bd64228a31f5</Id>
@@ -2476,10 +2476,10 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>48</Height>
-        <Width>100.35333333333335</Width>
+        <Width>80</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>1ms/X13</TransitionStr>
+        <TransitionStr>1</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>7a8ca022-680e-4579-9c94-5fea9570a261</Id>
@@ -3761,7 +3761,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
             <IsGenerated>true</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -3776,7 +3776,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
             <Width>80</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>3s/X3</TransitionStr>
+            <TransitionStr>3s/X7</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>b6fa11fb-1b8d-4286-92d8-919f7b3318b1</Id>
@@ -3925,7 +3925,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -3940,7 +3940,7 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
             <Width>80</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>1s/X6</TransitionStr>
+            <TransitionStr>1s/X4</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>8ace8653-b82c-4c8d-a039-bd64228a31f5</Id>
@@ -5413,10 +5413,10 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>48</Height>
-            <Width>100.35333333333335</Width>
+            <Width>80</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>1ms/X13</TransitionStr>
+            <TransitionStr>1</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>7a8ca022-680e-4579-9c94-5fea9570a261</Id>
@@ -5786,8 +5786,8 @@ empezaremos normal y lo que hubiera no se procesa</Caption>
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2021-03-22T16:29:12.8788205+01:00</DtGrafcetStructure>
-    <DtInterpreterData>2020-03-10T16:25:56.6573152+01:00</DtInterpreterData>
+    <DtGrafcetStructure>2021-04-06T09:03:24.9990577+02:00</DtGrafcetStructure>
+    <DtInterpreterData>2021-04-06T09:03:24.9990577+02:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />
     <IoPanelSettings>
