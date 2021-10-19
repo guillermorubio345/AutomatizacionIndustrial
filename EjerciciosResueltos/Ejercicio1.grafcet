@@ -9,8 +9,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>320</Left>
-          <Top>144</Top>
+          <Left>496</Left>
+          <Top>128</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -42,6 +42,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -50,8 +52,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>320</Left>
-          <Top>416</Top>
+          <Left>496</Left>
+          <Top>496</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -83,6 +85,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
@@ -91,8 +95,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>288</Left>
-          <Top>32</Top>
+          <Left>464</Left>
+          <Top>192</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -124,24 +128,26 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>288</Left>
-          <Top>64</Top>
+          <Left>464</Left>
+          <Top>224</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>80</Width>
+        <Width>96</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>↑PP</TransitionStr>
+        <TransitionStr>↑PP+PS</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>b41f168b-19f2-437a-a51c-6d17c16d8b85</Id>
@@ -165,6 +171,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -173,8 +181,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>288</Left>
-          <Top>400</Top>
+          <Left>464</Left>
+          <Top>480</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -206,6 +214,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -214,8 +224,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>382</Left>
-          <Top>384</Top>
+          <Left>558</Left>
+          <Top>464</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -247,6 +257,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -255,8 +267,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>336</Left>
-          <Top>384</Top>
+          <Left>512</Left>
+          <Top>464</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -288,6 +300,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -296,8 +310,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>382</Left>
-          <Top>112</Top>
+          <Left>558</Left>
+          <Top>96</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -329,6 +343,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -337,8 +353,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>336</Left>
-          <Top>112</Top>
+          <Left>512</Left>
+          <Top>96</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -370,6 +386,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -378,8 +396,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>288</Left>
-          <Top>240</Top>
+          <Left>464</Left>
+          <Top>320</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -411,6 +429,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -419,8 +439,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>320</Left>
-          <Top>224</Top>
+          <Left>496</Left>
+          <Top>304</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -452,16 +472,18 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>288</Left>
-          <Top>208</Top>
+          <Left>464</Left>
+          <Top>288</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -493,6 +515,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -501,8 +525,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>382</Left>
-          <Top>192</Top>
+          <Left>558</Left>
+          <Top>272</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -534,6 +558,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -542,8 +568,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>336</Left>
-          <Top>192</Top>
+          <Left>512</Left>
+          <Top>272</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -575,6 +601,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -583,8 +611,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>288</Left>
-          <Top>432</Top>
+          <Left>464</Left>
+          <Top>512</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -616,6 +644,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -624,8 +654,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>320</Left>
-          <Top>320</Top>
+          <Left>496</Left>
+          <Top>400</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -657,6 +687,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -665,8 +697,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>288</Left>
-          <Top>304</Top>
+          <Left>464</Left>
+          <Top>384</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -698,6 +730,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -706,8 +740,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>382</Left>
-          <Top>288</Top>
+          <Left>558</Left>
+          <Top>368</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -739,6 +773,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -747,8 +783,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>336</Left>
-          <Top>288</Top>
+          <Left>512</Left>
+          <Top>368</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -780,6 +816,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -788,8 +826,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>288</Left>
-          <Top>336</Top>
+          <Left>464</Left>
+          <Top>416</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -821,6 +859,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
@@ -829,8 +869,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>288</Left>
-          <Top>496</Top>
+          <Left>464</Left>
+          <Top>576</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -862,6 +902,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
@@ -870,8 +912,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>288</Left>
-          <Top>128</Top>
+          <Left>464</Left>
+          <Top>112</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -903,6 +945,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -911,13 +955,13 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>288</Left>
-          <Top>160</Top>
+          <Left>464</Left>
+          <Top>144</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
         <Height>48</Height>
-        <Width>83.160000000000025</Width>
+        <Width>96</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr>30s/X5</TransitionStr>
@@ -944,6 +988,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -952,8 +998,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>320</Left>
-          <Top>48</Top>
+          <Left>496</Left>
+          <Top>208</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -985,6 +1031,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -993,8 +1041,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>382</Left>
-          <Top>16</Top>
+          <Left>558</Left>
+          <Top>176</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -1026,6 +1074,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
         <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
@@ -1034,8 +1084,8 @@
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
-          <Left>336</Left>
-          <Top>16</Top>
+          <Left>512</Left>
+          <Top>176</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -1067,6 +1117,8 @@
         <IsFinalTransition>false</IsFinalTransition>
         <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
         <IsGenerated>false</IsGenerated>
+        <T1IsOperand>false</T1IsOperand>
+        <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
     </ArrayOfGrafcetItemProperties>
   </Grafcets>
@@ -1088,8 +1140,18 @@
       <DbBitAddr>0</DbBitAddr>
     </SymbolItem>
     <SymbolItem>
+      <Address>-</Address>
+      <Symbol>PS</Symbol>
+      <Comment />
+      <Flags />
+      <DataType>BOOL</DataType>
+      <SymbolType>Data</SymbolType>
+      <DbByteAddr>150</DbByteAddr>
+      <DbBitAddr>0</DbBitAddr>
+    </SymbolItem>
+    <SymbolItem>
       <Address>I0.1</Address>
-      <Symbol>I1</Symbol>
+      <Symbol>I2</Symbol>
       <Comment />
       <Flags />
       <DataType>BOOL</DataType>
@@ -1099,7 +1161,7 @@
     </SymbolItem>
     <SymbolItem>
       <Address>I0.2</Address>
-      <Symbol>I2</Symbol>
+      <Symbol>I3</Symbol>
       <Comment />
       <Flags />
       <DataType>BOOL</DataType>
@@ -1109,7 +1171,7 @@
     </SymbolItem>
     <SymbolItem>
       <Address>I0.3</Address>
-      <Symbol>I3</Symbol>
+      <Symbol>I4</Symbol>
       <Comment />
       <Flags />
       <DataType>BOOL</DataType>
@@ -1119,7 +1181,7 @@
     </SymbolItem>
     <SymbolItem>
       <Address>I0.4</Address>
-      <Symbol>I4</Symbol>
+      <Symbol>I5</Symbol>
       <Comment />
       <Flags />
       <DataType>BOOL</DataType>
@@ -1129,7 +1191,7 @@
     </SymbolItem>
     <SymbolItem>
       <Address>I0.5</Address>
-      <Symbol>I5</Symbol>
+      <Symbol>I6</Symbol>
       <Comment />
       <Flags />
       <DataType>BOOL</DataType>
@@ -1139,7 +1201,7 @@
     </SymbolItem>
     <SymbolItem>
       <Address>I0.6</Address>
-      <Symbol>I6</Symbol>
+      <Symbol>I7</Symbol>
       <Comment />
       <Flags />
       <DataType>BOOL</DataType>
@@ -1149,7 +1211,7 @@
     </SymbolItem>
     <SymbolItem>
       <Address>I0.7</Address>
-      <Symbol>I7</Symbol>
+      <Symbol>I8</Symbol>
       <Comment />
       <Flags />
       <DataType>BOOL</DataType>
@@ -1159,7 +1221,7 @@
     </SymbolItem>
     <SymbolItem>
       <Address>I1.0</Address>
-      <Symbol>I8</Symbol>
+      <Symbol>I9</Symbol>
       <Comment />
       <Flags />
       <DataType>BOOL</DataType>
@@ -1169,7 +1231,7 @@
     </SymbolItem>
     <SymbolItem>
       <Address>I1.1</Address>
-      <Symbol>I9</Symbol>
+      <Symbol>I10</Symbol>
       <Comment />
       <Flags />
       <DataType>BOOL</DataType>
@@ -1179,7 +1241,7 @@
     </SymbolItem>
     <SymbolItem>
       <Address>I1.2</Address>
-      <Symbol>I10</Symbol>
+      <Symbol>I11</Symbol>
       <Comment />
       <Flags />
       <DataType>BOOL</DataType>
@@ -1189,7 +1251,7 @@
     </SymbolItem>
     <SymbolItem>
       <Address>I1.3</Address>
-      <Symbol>I11</Symbol>
+      <Symbol>I12</Symbol>
       <Comment />
       <Flags />
       <DataType>BOOL</DataType>
@@ -1199,7 +1261,7 @@
     </SymbolItem>
     <SymbolItem>
       <Address>I1.4</Address>
-      <Symbol>I12</Symbol>
+      <Symbol>I13</Symbol>
       <Comment />
       <Flags />
       <DataType>BOOL</DataType>
@@ -1209,7 +1271,7 @@
     </SymbolItem>
     <SymbolItem>
       <Address>I1.5</Address>
-      <Symbol>I13</Symbol>
+      <Symbol>I14</Symbol>
       <Comment />
       <Flags />
       <DataType>BOOL</DataType>
@@ -1219,23 +1281,13 @@
     </SymbolItem>
     <SymbolItem>
       <Address>I1.6</Address>
-      <Symbol>I14</Symbol>
-      <Comment />
-      <Flags />
-      <DataType>BOOL</DataType>
-      <SymbolType>Input</SymbolType>
-      <DbByteAddr>1</DbByteAddr>
-      <DbBitAddr>6</DbBitAddr>
-    </SymbolItem>
-    <SymbolItem>
-      <Address>I1.7</Address>
       <Symbol>I15</Symbol>
       <Comment />
       <Flags />
       <DataType>BOOL</DataType>
       <SymbolType>Input</SymbolType>
       <DbByteAddr>1</DbByteAddr>
-      <DbBitAddr>7</DbBitAddr>
+      <DbBitAddr>6</DbBitAddr>
     </SymbolItem>
     <SymbolItem>
       <Address>Q0.0</Address>
@@ -1500,1079 +1552,33 @@
     <TotalLenght>307</TotalLenght>
   </SimulatorIoSettings>
   <Settings>
+    <PrintSettings>
+      <PrintFooter>true</PrintFooter>
+      <PrintHeader>true</PrintHeader>
+      <PrintMargins>
+        <Top>10</Top>
+        <Bottom>10</Bottom>
+        <Left>20</Left>
+        <Right>10</Right>
+      </PrintMargins>
+      <FooterLeft>Printed with Grafcet-Studio</FooterLeft>
+      <FooterMiddle />
+      <FooterRight>{PageNr}</FooterRight>
+      <HeaderLeft>{ProjectName}</HeaderLeft>
+      <HeaderMiddle>{PageName}</HeaderMiddle>
+      <HeaderRight>{DateAndTime}</HeaderRight>
+      <PrintLogoHightInMmArray>
+        <int>10</int>
+        <int>10</int>
+        <int>10</int>
+        <int>10</int>
+      </PrintLogoHightInMmArray>
+      <GrafcetScaleFactor>40</GrafcetScaleFactor>
+      <SymbolTableScaleFactor>100</SymbolTableScaleFactor>
+    </PrintSettings>
     <StepSituationSettings>
       <IsCurrentSituationModified>false</IsCurrentSituationModified>
       <StepsTextboxEnabled>false</StepsTextboxEnabled>
-      <Grafcets>
-        <ArrayOfGrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>320</Left>
-              <Top>144</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>16</Height>
-            <Width>16</Width>
-            <TypeEnum>ConnectionLine</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>?</ActionStr>
-            <Caption />
-            <Id>53daa5b5-1530-4423-8041-0164cdcafe9b</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>true</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>320</Left>
-              <Top>416</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>16</Height>
-            <Width>16</Width>
-            <TypeEnum>ConnectionLine</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>?</ActionStr>
-            <Caption />
-            <Id>860cb229-a378-47d1-9d40-7adbd1fdb00e</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>true</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>288</Left>
-              <Top>32</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>32</Height>
-            <Width>32</Width>
-            <TypeEnum>StepInitial</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>?</ActionStr>
-            <Caption>1</Caption>
-            <Id>28b07cbf-c633-4589-aea5-620310a9cb58</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>288</Left>
-              <Top>64</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>64</Height>
-            <Width>80</Width>
-            <TypeEnum>Transition</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr>↑PP</TransitionStr>
-            <ActionStr>?</ActionStr>
-            <Caption />
-            <Id>b41f168b-19f2-437a-a51c-6d17c16d8b85</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>288</Left>
-              <Top>400</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>32</Height>
-            <Width>32</Width>
-            <TypeEnum>StepNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>?</ActionStr>
-            <Caption>4</Caption>
-            <Id>7fd9378e-0c7b-4ca5-a56c-d3096b53aba7</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>382</Left>
-              <Top>384</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>64</Height>
-            <Width>48</Width>
-            <TypeEnum>ActionNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>LRP</ActionStr>
-            <Caption />
-            <Id>7e8842e8-b903-4ab8-a584-3ea256368de3</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>336</Left>
-              <Top>384</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>64</Height>
-            <Width>48</Width>
-            <TypeEnum>ActionNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>LRV</ActionStr>
-            <Caption />
-            <Id>9511236b-dd2e-4224-a8a8-2e5df9c5a1d2</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>382</Left>
-              <Top>112</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>64</Height>
-            <Width>48</Width>
-            <TypeEnum>ActionNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>LRP</ActionStr>
-            <Caption />
-            <Id>2bbcae14-eb5d-466d-bca6-442e7a658ef6</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>336</Left>
-              <Top>112</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>64</Height>
-            <Width>48</Width>
-            <TypeEnum>ActionNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>LVV</ActionStr>
-            <Caption />
-            <Id>5dbf33fa-0d99-4d5c-ab0d-d95cfb70bad4</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>288</Left>
-              <Top>240</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>64</Height>
-            <Width>80</Width>
-            <TypeEnum>Transition</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr>3s/X2</TransitionStr>
-            <ActionStr>?</ActionStr>
-            <Caption />
-            <Id>e3702158-b1d9-4ddb-a991-caeeff3da8a7</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>320</Left>
-              <Top>224</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>16</Height>
-            <Width>16</Width>
-            <TypeEnum>ConnectionLine</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>?</ActionStr>
-            <Caption />
-            <Id>04ad222d-016e-4785-ba01-ebb2a91725cd</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>true</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>288</Left>
-              <Top>208</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>32</Height>
-            <Width>32</Width>
-            <TypeEnum>StepNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>?</ActionStr>
-            <Caption>2</Caption>
-            <Id>c08de106-dac3-4f2b-8ae5-49687233e2a8</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>382</Left>
-              <Top>192</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>64</Height>
-            <Width>48</Width>
-            <TypeEnum>ActionNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>LRP</ActionStr>
-            <Caption />
-            <Id>3f397a05-75e8-49af-827f-cb2a54808bfa</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>336</Left>
-              <Top>192</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>64</Height>
-            <Width>48</Width>
-            <TypeEnum>ActionNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>LAV</ActionStr>
-            <Caption />
-            <Id>c7cab6ec-fc06-470d-a6ae-3761b29d401c</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>288</Left>
-              <Top>432</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>64</Height>
-            <Width>80</Width>
-            <TypeEnum>Transition</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr>2s/X4</TransitionStr>
-            <ActionStr>?</ActionStr>
-            <Caption />
-            <Id>ecf7d1e8-39b3-4959-a169-81c825ca32f9</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>320</Left>
-              <Top>320</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>16</Height>
-            <Width>16</Width>
-            <TypeEnum>ConnectionLine</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>?</ActionStr>
-            <Caption />
-            <Id>21a89145-9813-4d36-93f2-0e57b00fad7d</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>true</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>288</Left>
-              <Top>304</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>32</Height>
-            <Width>32</Width>
-            <TypeEnum>StepNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>?</ActionStr>
-            <Caption>3</Caption>
-            <Id>31801598-2ac8-4f5c-9090-6de94650e282</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>382</Left>
-              <Top>288</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>64</Height>
-            <Width>48</Width>
-            <TypeEnum>ActionNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>LVP</ActionStr>
-            <Caption />
-            <Id>f3dd4577-9d8e-440b-b118-de9333c51edd</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>336</Left>
-              <Top>288</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>64</Height>
-            <Width>48</Width>
-            <TypeEnum>ActionNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>LRV</ActionStr>
-            <Caption />
-            <Id>1c06cdcc-b9b8-4fe5-9268-ac9ebf427cd1</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>288</Left>
-              <Top>336</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>64</Height>
-            <Width>80</Width>
-            <TypeEnum>Transition</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr>6s/X3</TransitionStr>
-            <ActionStr>?</ActionStr>
-            <Caption />
-            <Id>1f5b8c6f-ee63-45e3-abd8-3e8ff9cd67da</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>288</Left>
-              <Top>496</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>32</Height>
-            <Width>32</Width>
-            <TypeEnum>Jump</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>?</ActionStr>
-            <Caption>5</Caption>
-            <Id>91fac4b4-0e1a-43bd-99c5-047e2d1a1bca</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>288</Left>
-              <Top>128</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>32</Height>
-            <Width>32</Width>
-            <TypeEnum>StepNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>?</ActionStr>
-            <Caption>5</Caption>
-            <Id>61d6134c-230f-4ecb-ae9f-45ee854d568c</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>288</Left>
-              <Top>160</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>48</Height>
-            <Width>83.160000000000025</Width>
-            <TypeEnum>Transition</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr>30s/X5</TransitionStr>
-            <ActionStr>?</ActionStr>
-            <Caption />
-            <Id>b5b61798-06fa-42ff-b8cb-c34c56d8e1be</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>320</Left>
-              <Top>48</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>16</Height>
-            <Width>16</Width>
-            <TypeEnum>ConnectionLine</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>?</ActionStr>
-            <Caption />
-            <Id>df8e8bf1-4426-464b-93f7-1383879e68db</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>true</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>382</Left>
-              <Top>16</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>64</Height>
-            <Width>48</Width>
-            <TypeEnum>ActionNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>LRP</ActionStr>
-            <Caption />
-            <Id>c3985606-1a55-4ce6-9d6f-87e6f6deba96</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>336</Left>
-              <Top>16</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>64</Height>
-            <Width>48</Width>
-            <TypeEnum>ActionNormal</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>LVV</ActionStr>
-            <Caption />
-            <Id>88c44f18-a8cf-4981-8e66-4a6fdf380c78</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-        </ArrayOfGrafcetItemProperties>
-      </Grafcets>
       <StepSituations />
       <CurrentSituationName />
       <CurrentSituationSteps />
@@ -2588,8 +1594,8 @@
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2021-03-17T20:14:26.5822071+01:00</DtGrafcetStructure>
-    <DtInterpreterData>2021-03-15T16:45:48.4695879+01:00</DtInterpreterData>
+    <DtGrafcetStructure>2021-10-19T09:27:19.894603+02:00</DtGrafcetStructure>
+    <DtInterpreterData>2021-10-19T09:27:19.894603+02:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />
     <IoPanelSettings>
@@ -2601,5 +1607,9 @@
       <ShowAo>false</ShowAo>
     </IoPanelSettings>
     <CreateInfo>Created from guill on machine LAPTOP-8A8E3T5I with GRAFCET-Studio-Version:1.1.0.3 at this time:14/02/2020 9:13:53</CreateInfo>
+    <AdditionalCyclicDelayMs>20</AdditionalCyclicDelayMs>
+    <CreatedWithVersion>2.1.0.6</CreatedWithVersion>
+    <SavedWithVersion>2.1.0.6</SavedWithVersion>
+    <MinimumVersionToLoad>1.0.0.0</MinimumVersionToLoad>
   </Settings>
 </GrafcetProjectFileSystemV1>
