@@ -454,7 +454,7 @@
         <IsGenerated>true</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -495,7 +495,7 @@
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -4416,30 +4416,6 @@ Explicar porqué es importante que se ponga flanco de subida.</Caption>
     <TotalLenght>307</TotalLenght>
   </SimulatorIoSettings>
   <Settings>
-    <PrintSettings>
-      <PrintFooter>true</PrintFooter>
-      <PrintHeader>true</PrintHeader>
-      <PrintMargins>
-        <Top>10</Top>
-        <Bottom>10</Bottom>
-        <Left>20</Left>
-        <Right>10</Right>
-      </PrintMargins>
-      <FooterLeft>Printed with Grafcet-Studio</FooterLeft>
-      <FooterMiddle />
-      <FooterRight>{PageNr}</FooterRight>
-      <HeaderLeft>{ProjectName}</HeaderLeft>
-      <HeaderMiddle>{PageName}</HeaderMiddle>
-      <HeaderRight>{DateAndTime}</HeaderRight>
-      <PrintLogoHightInMmArray>
-        <int>10</int>
-        <int>10</int>
-        <int>10</int>
-        <int>10</int>
-      </PrintLogoHightInMmArray>
-      <GrafcetScaleFactor>40</GrafcetScaleFactor>
-      <SymbolTableScaleFactor>100</SymbolTableScaleFactor>
-    </PrintSettings>
     <StepSituationSettings>
       <IsCurrentSituationModified>false</IsCurrentSituationModified>
       <StepsTextboxEnabled>false</StepsTextboxEnabled>
@@ -4897,7 +4873,7 @@ Explicar porqué es importante que se ponga flanco de subida.</Caption>
             <IsGenerated>true</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -4938,7 +4914,7 @@ Explicar porqué es importante que se ponga flanco de subida.</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -8444,7 +8420,7 @@ Explicar porqué es importante que se ponga flanco de subida.</Caption>
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2020-03-05T18:30:28.5981536+01:00</DtGrafcetStructure>
+    <DtGrafcetStructure>2021-10-19T12:37:38.4132273+02:00</DtGrafcetStructure>
     <DtInterpreterData>2020-02-24T17:17:32.3810991+01:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />
