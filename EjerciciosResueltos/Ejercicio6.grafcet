@@ -999,7 +999,7 @@
           <Bottom>0</Bottom>
         </Margin>
         <Height>32</Height>
-        <Width>87.160000000000025</Width>
+        <Width>83.160000000000025</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr>15s/X8</TransitionStr>
@@ -5836,7 +5836,7 @@ disco ha permanecido más tiempo en B debemos utilizar RE</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>32</Height>
-            <Width>87.160000000000025</Width>
+            <Width>83.160000000000025</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr>15s/X8</TransitionStr>
